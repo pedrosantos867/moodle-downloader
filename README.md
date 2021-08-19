@@ -1,7 +1,7 @@
 # Moodle downloader
 
 ### Setup
-1. Install [Python](https://www.python.org/) >=3.8 `apt-get install python3 && apt-get install python3-pip`
+1. Install [Python](https://www.python.org/) >=3.8 
 2. Verify that `python --version` shows a version equal to or higher then 3.8
     Otherwise use [pyenv](https://github.com/pyenv/pyenv#installation) to install version 3.8
 3. `pip3 install -r requirements.txt`
