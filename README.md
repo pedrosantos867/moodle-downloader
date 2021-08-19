@@ -15,7 +15,7 @@
 * **-p**, **--password**: Moodle password
 * **-y**, **--year**: Moodle school year (`2018-19` or `2019-20` or `2020-21`)
 
-#### Output example:
+### Output example:
 ![output](https://user-images.githubusercontent.com/35016381/130121235-4d757aaf-2f53-4dcd-8deb-18b8ceaa9feb.PNG)
 
 ### Notes
