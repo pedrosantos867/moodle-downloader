@@ -19,8 +19,8 @@
 ![output](https://user-images.githubusercontent.com/35016381/130121235-4d757aaf-2f53-4dcd-8deb-18b8ceaa9feb.PNG)
 
 ### Notes
-* All files will be saved at the user's Documents folder and divided by year 
-and then by course name
+* All files will be saved at the user's Documents folder and organized by year and course name
+
 * Only tested for IPLeiria's moodle page 
 
 ### License
